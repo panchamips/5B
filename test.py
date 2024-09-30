@@ -1,2 +1,2 @@
 print("hello panchami")
-rachan
+print("rachan")
